@@ -1,5 +1,7 @@
 // Write your cade below:
-function caclRemaindar() {};
+function caclRemaindar(a, b) {
+    return a % b;
+};
 
 function caclSum() {};
 
